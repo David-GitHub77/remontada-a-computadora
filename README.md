@@ -1,2 +1,2 @@
-# remontada-a-computadora
-This is for my comeback to computer science
+# remontada-a-la-bernabeu
+This is for random programs
